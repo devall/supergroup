@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# Time: Fri Dec 18 2015 16:47:38 GMT+0300 (MSK)
+# Time: Fri Dec 18 2015 18:34:32 GMT+0300 (MSK)
 
 
 CACHE:
@@ -24,9 +24,9 @@ img/iphone_home120.png
 img/iphone_startup.png
 img/logo_share.png
 img/sound_a.mp3
-js/app.js
 nacl/mtproto_crypto.nmf
 nacl/mtproto_crypto.pexe
+js/app.js
 img/changelog/card_wecandoit.png
 img/icons/AboutLogos.png
 img/icons/AboutLogos_2x.png
@@ -61,6 +61,11 @@ img/placeholders/UserAvatar7@2x.png
 img/placeholders/UserAvatar8@2x.png
 img/placeholders/VideoThumbConversation.gif
 img/placeholders/VideoThumbModal.gif
+vendor/closure/long.js
+vendor/cryptoJS/crypto.js
+vendor/jsbn/jsbn_combined.js
+vendor/leemon_bigint/bigint.js
+vendor/rusha/rusha.js
 js/lib/bin_utils.js
 js/lib/crypto_worker.js
 js/lib/polyfill.js
@@ -71,11 +76,6 @@ js/locales/it-it.json
 js/locales/nl-nl.json
 js/locales/pt-br.json
 js/locales/ru-ru.json
-vendor/cryptoJS/crypto.js
-vendor/closure/long.js
-vendor/jsbn/jsbn_combined.js
-vendor/leemon_bigint/bigint.js
-vendor/rusha/rusha.js
 vendor/angular/i18n/angular-locale_de-de.js
 vendor/angular/i18n/angular-locale_en-us.js
 vendor/angular/i18n/angular-locale_es-es.js
